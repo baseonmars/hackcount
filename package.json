@@ -1,0 +1,24 @@
+{
+  "name": "mooncount",
+  "version": "0.1.0",
+  "description": "Sitemaker site count information radiator",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "~2.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/baseonmars/hackcount.git"
+  },
+  "author": "Dan Etherington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baseonmars/hackcount/issues"
+  },
+  "homepage": "https://github.com/baseonmars/hackcount"
+}
